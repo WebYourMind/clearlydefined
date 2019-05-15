@@ -1,0 +1,13 @@
+current directory: /Users/simonetorrisi/Documents/www/webyourmind/clearlydefined/clearlydefined/docs/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20181105-10420-qjkfr8.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/universal-darwin17/rbconfig.rb:215: warning: Insecure world writable dir /Users/simonetorrisi in PATH, mode 040777
+creating Makefile
+
+current directory: /Users/simonetorrisi/Documents/www/webyourmind/clearlydefined/clearlydefined/docs/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+
+current directory: /Users/simonetorrisi/Documents/www/webyourmind/clearlydefined/clearlydefined/docs/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR="
+make: *** No rule to make target `/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/include/ruby-2.3.0/universal-darwin17/ruby/config.h', needed by `arena.o'.  Stop.
+
+make failed, exit code 2
